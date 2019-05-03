@@ -2667,11 +2667,11 @@ WK00OOOOOOOO00OOOOOKKKK N NK00OOOOOOO0KN
                                                                                                                                                                             console.log(`
 ${colors.rainbow('I hope you enjoyed')}
 
-Final Salad:
+Final Salad: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrtzCjWyZqXe602YP92y92h1HiztVVno6SySk4URDdIt-zMJX
 
 Hardest Game to Make: Towers of Hanoi
 
-Bonus Pictures:
+Bonus Pictures: https://imgur.com/gallery/wSbWlEi
 
 Bonus Videos (Check these out):
 
@@ -2679,7 +2679,7 @@ Time Spent: 20 Hours total, 10 days
 
 Lines: 2729
 
-Source Code (I left comments explaining if you want to check it out): 
+Source Code (I left comments explaining if you want to check it out): https://github.com/GarbearSheer/SophieMayo/blob/master/ily2.js
 
 Final Message: Hey Soph, I really hope you enjoyed this as much as the last one. I had a lot of fun making it for you and I put a lot of effort into it. I'm sorry that it wasn't as long as the last one, but I hope I made up for it with it's interactive aspect. I wanted to make this as a gift for your exams and now for you getting a job. I'm super proud so I wanted to give back to you a little bit. My last one of these really made it hard to tell you unique stuff. I said a lot of what I wanted to say in the last one. All of it still stands and I hope you feel the same way. There is no one I would rather make this for. This time was well spent in my eyes. Even if it made you smile one time. You better know I'll be doing it again, but better. Maybe you can help me with the next one and make it one big project. That would be really cool. I can't wait to spend time with you and watch dat movie with you. I have been friccen dodging spoilers left and right at school, it's hard out there. Anyway, I hope it was what you expect, or even more. I love you I have school in the morning. Goodnight <3`)
                                                                                                                                                                         })
