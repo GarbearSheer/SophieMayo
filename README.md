@@ -8,7 +8,7 @@ Just click clone or download. Unzip the downloaded folder.
 
 # 3. Open command prompt
 Navigate to this folder in command prompt. The likely file path is C:\Users\soph\downloads\sophiemayo-master\sophiemayo-master.
-If that is the file path type: cd C:\Users\soph\downloads\sophiemayo-master
+If that is the file path type: cd C:\Users\soph\downloads\sophiemayo-master\sophiemayo-master
 
 # 4. Install node in Command prompt
 When in that folder type: npm install nodejs
