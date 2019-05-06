@@ -1581,10 +1581,8 @@ let time = function () {
 Press enter to continue...`, (answer) => {
         console.clear()
         rl.question(`Because of the reasoning above you can have your message and pic now
-    
-Pic:
 
-Message:
+Message: Funny Story. I'm writing this like 7 days after I'm done because I was bored and wanted to go through this, but that's actually perfect. My past few days have been super shitty and I wanted to tell someone. My parents keep fighting which is whatever, but yesterday I wanted to go to my dads house and my mom made a big deal out of it. To be fair, my dad didn't make it any better, but she always takes it out on the person nearest. Which is one reason why my stepdad and her were fighting, but this time it was me. Everytime this happens she always makes it a point that my dad doesn't give a shit about me and that he only wants to see me when it is convienent for him. Even though it may be true, I would honestly like to believe it isn't and her reminding me isn't cool. I also don't have a job in a month because the rent changed on my boss's lot and she is shutting it down and I'm pretty upset about that. Im glad I found this although if this is anything like the story one of this I made, you wont ever read it so I can dream. Also I'm sorry I missed this, I was very busy with this it took so long to make so it was difficult to keep up.
 
 Press enter to continue...`, (answer) => {
             clock()
